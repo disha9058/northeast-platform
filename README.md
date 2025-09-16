@@ -3,15 +3,12 @@ Neva Health Guard
 
 A modern web application built with React, TypeScript, and Tailwind CSS for health monitoring and preventive solutions.
 
-Features
+Features:
 
-Responsive and fast UI using Tailwind CSS
-
-Built with React and TypeScript for type safety and scalability
-
-Component-driven architecture with shadcn-ui for reusable components
-
-Development-ready setup with Vite for fast hot-reloading
+1.Responsive and fast UI using Tailwind CSS
+2.Built with React and TypeScript for type safety and scalability
+3.Component-driven architecture with shadcn-ui for reusable components
+4.Development-ready setup with Vite for fast hot-reloading
 
 Getting Started
 
@@ -30,7 +27,6 @@ npm install
 npm run dev
 
 
-Open your browser and go to http://localhost:5173 (or the URL shown in the terminal).
 
 Project Structure
 /src
@@ -39,19 +35,14 @@ Project Structure
   /assets       # Images, icons, etc.
   /styles       # Tailwind & global CSS
 
-Technologies Used
+Technologies Used:
 
-React
-
-TypeScript
-
-Vite
-
-Tailwind CSS
-
-shadcn-ui
-
-Deployment
+1.React
+2.TypeScript
+3.Vite
+4.Tailwind CSS
+5.shadcn-ui
+6.Deployment
 
 This project can be run locally or deployed on any static hosting service that supports Vite builds:
 
